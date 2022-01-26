@@ -1,2 +1,2 @@
 # Multi_clipboard
-This is multi clipboard python automation script.
+This is simple multi clipboard python automation script.
